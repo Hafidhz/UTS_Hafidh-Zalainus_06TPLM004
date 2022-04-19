@@ -1,3 +1,7 @@
+print("Hafidh Zalainus Sahrul A")
+print("191011400463")
+print("UTS Kecerdasan Buatan \n")
+
 print ("perulangan for \n")
 ulang = 10 
 for i in range(ulang):
